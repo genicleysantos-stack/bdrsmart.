@@ -1,0 +1,8 @@
+{
+  "name": "BDR SMART",
+  "description": "Solução inteligente de logística urbana 'leva e traz' para Android e iOS. Coleta e entrega com rastreamento em tempo real e IA para seus clientes.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}

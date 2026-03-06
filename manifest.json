@@ -1,0 +1,33 @@
+
+{
+  "name": "BDR SMART",
+  "short_name": "BDR SMART",
+  "description": "Logística inteligente Leva-e-Traz para celulares com IA.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#87ff00",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/7159/7159032.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/7159/7159032.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://images.unsplash.com/photo-1556656793-062ff98782ee?auto=format&fit=crop&q=80&w=1000",
+      "sizes": "1000x1500",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "BDR SMART Logistics"
+    }
+  ]
+}
